@@ -1,0 +1,14 @@
+# Build files
+*.exe
+*.out
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
